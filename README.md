@@ -56,6 +56,7 @@ A Clean Architecture é especialmente útil para projetos grandes e complexos, c
 │
 └── 📄 injection_container.dart # Injeção de dependências (GetIt, Provider, etc.)
 
+```
 ---
 
 # 📌 **Regra de Nomenclatura para Arquivos e Pastas**
