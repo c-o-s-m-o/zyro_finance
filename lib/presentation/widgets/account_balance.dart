@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:zyro_finance/core/constants/app_colors.dart';
 import 'package:zyro_finance/presentation/widgets/account_card.dart';
 import 'package:zyro_finance/presentation/widgets/balance_bar_chart.dart';
@@ -13,11 +14,11 @@ class AccountBalance extends StatelessWidget {
       children: [
         Text(
           "Contas",
-          /*style: GoogleFonts.poppins(
+          style: GoogleFonts.poppins(
             fontSize: 18,
             fontWeight: FontWeight.bold,
             color: AppColors.textColor,
-          ),*/
+          ),
         ),
         const SizedBox(height: 16),
         // Cards de contas com rolagem horizontal
