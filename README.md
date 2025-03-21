@@ -22,8 +22,9 @@ A Clean Architecture é especialmente útil para projetos grandes e complexos, c
 
 ---
 
-## 🗂️ Estrutura do Projeto  
+## 🗂️ Estrutura do Projeto
 
+```bash
 📁 lib/
 │
 ├── 📄 main.dart # Ponto de entrada do aplicativo
